@@ -25,6 +25,7 @@ I listen to music on Spotify every day
 <!-- This is just an example, fill in with your actual components -->
 
 | Device | Usage | Price |
+|--------|-------|-------|
 | 16x2 LCD display with I²C interface | Data display | https://store.arduino.cc/collections/displays/products/16x2-lcd-display-with-i-c-interface (30 Ron) |
 | Arduino UNO R3 Compatible Development Board | Mother Board | https://www.optimusdigital.ro/ro/placi-avr/1685-uno-r3-atmega328p-atmega16u2-placa-de-dezvoltare-compatibila-cu-arduino.html?search_query=arduino+uno&results=138 (50 Ron) |
 | Potentiometre 10K | Display brightness adjustment | https://www.optimusdigital.ro/ro/componente-electronice-potentiometre/1886-potentiometru-stereo-10k.html?search_query=potentiometru+10K&results=18 (2 Ron) |
