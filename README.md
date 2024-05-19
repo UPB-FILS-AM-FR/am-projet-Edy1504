@@ -1,23 +1,23 @@
-# Spotify Player
+# Colour detection
 
 | | |
 |-|-|
 |`Author` | Moise Eduard-Constantin
 
 ## Description
-Displays on the screen the name of the song, the artist and the duration of the song
+A sensor detects the colour of a card, displays the colour on a display and makes a different sound for each colour
 ## Motivation
-I listen to music on Spotify every day
+I'm trying to do something different
 ## Architecture
 
 ### Block diagram
 
 <!-- Make sure the path to the picture is correct -->
-![Block Diagram](<img width="917" alt="arduinoproiect" src="https://github.com/UPB-FILS-AM-FR/am-projet-Edy1504/assets/81988804/64c20dac-8539-4acf-b834-05ac235a2648">)
+![Block Diagram]()
 
 ### Schematic
 
-![Schematic](<img width="917" alt="arduinoproiect" src="https://github.com/UPB-FILS-AM-FR/am-projet-Edy1504/assets/81988804/64c20dac-8539-4acf-b834-05ac235a2648">)
+![Schematic]()
 
 ### Components
 
@@ -28,7 +28,8 @@ I listen to music on Spotify every day
 |--------|-------|-------|
 | 16x2 LCD display with I²C interface | Data display | https://store.arduino.cc/collections/displays/products/16x2-lcd-display-with-i-c-interface (30 Ron) |
 | Arduino UNO R3 Compatible Development Board | Mother Board | https://www.optimusdigital.ro/ro/placi-avr/1685-uno-r3-atmega328p-atmega16u2-placa-de-dezvoltare-compatibila-cu-arduino.html?search_query=arduino+uno&results=138 (50 Ron) |
-| Potentiometre 10K | Display brightness adjustment | https://www.optimusdigital.ro/ro/componente-electronice-potentiometre/1886-potentiometru-stereo-10k.html?search_query=potentiometru+10K&results=18 (2 Ron) |
+| Color Sensor | Color detection | https://www.optimusdigital.ro/ro/senzori-senzori-optici/111-modul-senzor-de-culoare-tcs230.html (39 Ron) |
+| Passive Speaker Buzzer | Emission of different sounds | https://www.aliexpress.com/item/1005002612472936.html?pdp_npi=4%40dis%21USD%211.21%211.21%21%21%211.21%211.21%21%402102ff6f17161159114648199d0bdc%2112000021392062593%21affd%21%21%21&dp=371083-180420.20862424&aff_fcid=dfc288ffe2d0493b8e9c7fcd40fcafb1-1716115912422-01263&aff_fsk&aff_platform=api-new-product-detail&sk&aff_trace_key=dfc288ffe2d0493b8e9c7fcd40fcafb1-1716115912422-01263&terminal_id=b2e4b65e8bd640d1bdd8ba2fa836bccc&afSmartRedirect=y (6.5 ron) | 
 | Bread Bord | Component assembly | https://www.optimusdigital.ro/ro/prototipare-breadboard-uri/8-breadboard-830-points.html?search_query=bread+board&results=147 (10 Ron) |
 
 ### Libraries
@@ -47,10 +48,10 @@ I listen to music on Spotify every day
 ### Week 6 - 12 May
 assembly of parts
 ### Week 7 - 19 May
-
+create code
 ### Week 20 - 26 May
 
 
 ## Reference links
 
-https://www.tiktok.com/@amir.ldn/video/7088009018580536581?lang=ro-RO
+https://www.tiktok.com/@compactdiy/video/7289142834517593377?q=color%20detection%20arduino&t=1716116353891
