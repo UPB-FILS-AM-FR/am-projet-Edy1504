@@ -17,7 +17,7 @@ I'm trying to do something different
 
 ### Schematic
 
-![Schematic](<iamgine.png>)
+![Schematic](<imagine1.png>)
 
 ### Components
 
