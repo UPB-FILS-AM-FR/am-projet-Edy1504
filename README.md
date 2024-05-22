@@ -13,7 +13,7 @@ I'm trying to do something different
 ### Block diagram
 
 <!-- Make sure the path to the picture is correct -->
-![Block Diagram](<iamgine.png>)
+![Block Diagram](<altaimg.png>)
 
 ### Schematic
 
